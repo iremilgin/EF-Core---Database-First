@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErdinçHocaÖdevÇözümAss13", "ErdinçHocaÖdevÇözümAss13\ErdinçHocaÖdevÇözümAss13.csproj", "{9C29DD1D-C1EA-4F0B-9AF7-42B607455F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C29DD1D-C1EA-4F0B-9AF7-42B607455F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C29DD1D-C1EA-4F0B-9AF7-42B607455F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C29DD1D-C1EA-4F0B-9AF7-42B607455F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C29DD1D-C1EA-4F0B-9AF7-42B607455F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17703E0-4A1B-450B-A336-46FDFAA0CE2A}
+	EndGlobalSection
+EndGlobal
